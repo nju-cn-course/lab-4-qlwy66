@@ -1,0 +1,1398 @@
+not for me
+10.10.128.14 has sent arp request
+find next but no mac10.10.128.14
+10.10.128.15 has sent arp request
+find next but no mac10.10.128.15
+find next but no mac10.10.128.14
+10.10.128.14 第 2 次重发 ARP 请求
+find next but no mac10.10.128.14
+10.10.128.14 第 3 次重发 ARP 请求
+10.10.128.14 第 4 次重发 ARP 请求
+172.16.40.2 has sent arp request
+find next but no mac172.16.40.2
+172.16.40.2 第 2 次重发 ARP 请求
+find next but no mac172.16.40.2
+172.16.40.2 第 3 次重发 ARP 请求
+find next but no mac172.16.40.2
+172.16.40.2 第 4 次重发 ARP 请求
+find next but no mac172.16.40.2
+172.16.40.2 第 5 次重发 ARP 请求
+find next but no mac172.16.40.2
+ARP 请求超过5次失败，删除目标 IP：172.16.40.2
+172.16.40.2 has sent arp request
+find next but no mac172.16.40.2
+172.16.40.2 第 2 次重发 ARP 请求
+find next but no mac172.16.40.2
+find next but no mac172.16.40.2
+10.10.128.20 has sent arp request
+find next but no mac10.10.128.20
+find next but no mac10.10.128.20
+172.16.40.2 第 3 次重发 ARP 请求
+10.10.128.20 第 2 次重发 ARP 请求
+172.16.44.3 has sent arp request
+find next but no mac172.16.44.3
+10.10.44.1 has sent arp request
+find next but no mac10.10.44.1
+10.11.44.2 has sent arp request
+find next but no mac10.11.44.2
+172.16.52.4 has sent arp request
+find next but no mac172.16.52.4
+find next but no mac172.16.44.3
+find next but no mac10.10.44.1
+find next but no mac172.16.52.4
+find next but no mac172.16.52.4
+find next but no mac10.10.44.1
+find next but no mac10.11.44.2
+find next but no mac10.11.44.2
+find next but no mac172.16.44.3
+find next but no mac10.10.44.1
+find next but no mac10.11.44.2
+find next but no mac172.16.44.3
+find next but no mac172.16.52.4
+172.16.44.3 第 2 次重发 ARP 请求
+10.10.44.1 第 2 次重发 ARP 请求
+10.11.44.2 第 2 次重发 ARP 请求
+172.16.52.4 第 2 次重发 ARP 请求
+172.16.44.3 第 3 次重发 ARP 请求
+10.10.44.1 第 3 次重发 ARP 请求
+10.11.44.2 第 3 次重发 ARP 请求
+172.16.52.4 第 3 次重发 ARP 请求
+172.16.44.3 第 4 次重发 ARP 请求
+10.10.44.1 第 4 次重发 ARP 请求
+172.16.52.4 第 4 次重发 ARP 请求
+172.16.44.3 第 5 次重发 ARP 请求
+172.16.52.4 第 5 次重发 ARP 请求
+10.11.0.2 has sent arp request
+find next but no mac10.11.0.2
+192.168.129.2 has sent arp request
+find next but no mac192.168.129.2
+172.16.48.3 has sent arp request
+find next but no mac172.16.48.3
+10.11.0.180 has sent arp request
+find next but no mac10.11.0.180
+10.10.0.180 has sent arp request
+find next but no mac10.10.0.180
+10.11.0.4 has sent arp request
+find next but no mac10.11.0.4
+172.16.40.148 has sent arp request
+find next but no mac172.16.40.148
+10.10.0.3 has sent arp request
+find next but no mac10.10.0.3
+10.11.0.169 has sent arp request
+find next but no mac10.11.0.169
+172.16.40.4 has sent arp request
+find next but no mac172.16.40.4
+172.16.48.2 has sent arp request
+find next but no mac172.16.48.2
+10.11.0.192 has sent arp request
+find next but no mac10.11.0.192
+10.11.0.3 has sent arp request
+find next but no mac10.11.0.3
+172.16.48.4 has sent arp request
+find next but no mac172.16.48.4
+10.10.0.2 has sent arp request
+find next but no mac10.10.0.2
+172.16.40.200 has sent arp request
+find next but no mac172.16.40.200
+172.16.40.3 has sent arp request
+find next but no mac172.16.40.3
+172.16.48.174 has sent arp request
+find next but no mac172.16.48.174
+10.10.0.4 has sent arp request
+find next but no mac10.10.0.4
+10.11.0.175 has sent arp request
+find next but no mac10.11.0.175
+172.16.48.171 has sent arp request
+find next but no mac172.16.48.171
+10.11.0.149 has sent arp request
+find next but no mac10.11.0.149
+10.10.0.175 has sent arp request
+find next but no mac10.10.0.175
+10.10.0.186 has sent arp request
+find next but no mac10.10.0.186
+172.16.40.173 has sent arp request
+find next but no mac172.16.40.173
+10.11.0.158 has sent arp request
+find next but no mac10.11.0.158
+172.16.48.185 has sent arp request
+find next but no mac172.16.48.185
+172.16.48.140 has sent arp request
+find next but no mac172.16.48.140
+10.11.0.198 has sent arp request
+find next but no mac10.11.0.198
+172.16.48.151 has sent arp request
+find next but no mac172.16.48.151
+10.10.0.179 has sent arp request
+find next but no mac10.10.0.179
+10.11.0.151 has sent arp request
+find next but no mac10.11.0.151
+172.16.40.198 has sent arp request
+find next but no mac172.16.40.198
+172.16.48.170 has sent arp request
+find next but no mac172.16.48.170
+172.16.48.153 has sent arp request
+find next but no mac172.16.48.153
+10.10.0.192 has sent arp request
+find next but no mac10.10.0.192
+10.10.0.164 has sent arp request
+find next but no mac10.10.0.164
+172.16.40.194 has sent arp request
+find next but no mac172.16.40.194
+10.10.0.200 has sent arp request
+find next but no mac10.10.0.200
+not for me
+not for me
+not for me
+not for me
+not for me
+not for me
+
+Results for test scenario IP forwarding and ARP requester tests: 1208 passed, 1 failed, 2 pending
+
+
+Passed:
+1   ARP Test
+2   ARP request for 10.10.0.1 should arrive on eth1
+3   ARP reply from eth1 should be forwarded to 10.10.128.11
+4   ARP request for 192.168.128.1 should arrive on eth5
+5   ARP reply from eth5 should be forwarded to 192.168.128.2
+6   Ping request to 10.10.128.11 should arrive on eth5
+7   Ping request to 10.10.128.11 should leave from eth1
+8   ARP rquest for 10.10.128.15 should arrive on eth1
+9   Router should not do anything
+10  ARP reply from 10.10.128.15 should arrive on eth1
+11  Router should not do anything
+12  Ping request to 10.10.128.14 should arrive on eth5
+13  ARP request for 10.10.128.14 should leave from eth1
+14  Ping request to 10.10.128.15 should arrive on eth5
+15  ARP request for 10.10.128.15 should leave from eth1
+16  UDP packet to 10.10.128.14 should arrive on eth5
+17  ARP reply from 10.10.128.15 should arrive on eth1
+18  Ping request to 10.10.128.15 should leave from eth1
+19  Router should not do anything
+20  ARP request for 10.10.128.14 should leave from eth1
+21  Ping request to 10.10.128.14 should arrive on eth5
+22  Router should not do anything
+23  ARP request for 10.10.128.14 should leave from eth1
+24  ARP reply from 10.10.128.14 should arrive on eth1
+25  Router should not do anything
+26  ARP request for 10.10.128.14 should leave from eth1
+27  ARP reply from 10.10.128.14 should arrive on eth1
+28  Ping request to 10.10.128.14 should leave from eth1
+29  UDP packet to 10.10.128.14 should leave from eth1
+30  Ping request to 10.10.128.14 should leave from eth1
+31  ARP request for 172.16.48.1 should arrive on eth4
+32  ARP reply from eth4 should be forwarded to 172.16.49.22
+33  Ping request to 12.1.1.23 should arrive on eth4
+34  ARP request for 172.16.40.2 should leave from eth3
+35  Router should not do anything
+36  ARP request for 172.16.40.2 should leave from eth3
+37  UDP packet to 12.1.1.23 should arrive on eth1
+38  Router should not do anything
+39  ARP request for 172.16.40.2 should leave from eth3
+40  Ping request to 12.1.1.23 should arrive on eth4
+41  Router should not do anything
+42  ARP request for 172.16.40.2 should leave from eth3
+43  UDP packet to 12.1.1.23 should arrive on eth5
+44  Router should not do anything
+45  ARP request for 172.16.40.2 should leave from eth3
+46  Ping request to 12.1.1.23 should arrive on eth4
+47  Router should not do anything
+48  Ping request to 12.1.1.23 should arrive on eth4
+49  ARP request for 172.16.40.2 should leave from eth3
+50  Router should not do anything
+51  ARP request for 172.16.40.2 should leave from eth3
+52  UDP packet to 12.1.1.23 should arrive on eth4
+53  UDP packet to 12.1.1.23 should arrive on eth1
+54  Ping request to 10.10.128.20 should arrive on eth5
+55  ARP request for 10.10.128.20 should leave from eth1
+56  UDP packet to 10.10.128.20 should arrive on eth6
+57  ARP reply from 10.10.128.20 should arrive on eth1
+58  Router should not do anything
+59  ARP request for 172.16.40.2 should leave from eth3
+60  ARP request for 10.10.128.20 should leave from eth1
+61  ARP reply from 10.10.128.20 should arrive on eth1
+62  Ping request to 10.10.128.20 should leave from eth1
+63  UDP packet to 10.10.128.20 should leave from eth1
+64  ARP reply from 12.1.1.24 should arrive on eth3
+65  Ping request to 12.1.1.23 should leave from eth3
+66  UDP packet to 12.1.1.23 should leave from eth3
+67  UDP packet to 12.1.1.23 should leave from eth3
+68  ARP reply from 10.10.128.20 should arrive on eth1
+69  ARP reply from 10.10.128.20 should arrive on eth4
+70  ARP reply from 10.10.128.20 should arrive on eth1
+71  ARP reply from 10.10.128.20 should arrive on eth3
+72  UDP packet to 10.10.128.20 should arrive on eth5
+73  Ping request to 10.10.128.20 should arrive on eth3
+74  Ping request to 10.10.128.20 should leave from eth1
+75  ARP reply from 10.10.128.20 should arrive on eth1
+76  ARP reply from 10.10.128.20 should arrive on eth2
+77  ARP reply from 10.10.128.20 should arrive on eth1
+78  ARP reply from 10.10.128.20 should arrive on eth3
+79  UDP packet to 10.10.128.20 should arrive on eth5
+80  Ping request to 10.10.128.20 should arrive on eth4
+81  Ping request to 10.10.128.20 should leave from eth1
+82  ARP request for 192.168.129.1 should arrive on eth2
+83  ARP reply from eth4 should be forwarded to 10.10.128.20
+84  UDP packet to 10.10.128.20 should arrive on eth5
+85  Ping request to 10.10.128.20 should arrive on eth3
+86  Ping request to 10.10.128.20 should leave from eth1
+87  ARP reply from 10.10.128.20 should arrive on eth1
+88  UDP packet to 10.10.128.20 should arrive on eth3
+89  UDP packet to 10.10.128.20 should leave from eth1
+90  UDP packet from 10.10.44.1 should arrive on eth1
+91  ARP request for 172.16.44.3 should leave from eth3
+92  UDP packet from 10.11.44.2 should arrive on eth2
+93  ARP request for 10.10.44.1 should leave from eth1
+94  UDP packet from 172.16.52.4 should arrive on eth4
+95  ARP request for 10.10.44.2 should leave from eth2
+96  UDP packet from 10.10.44.5 should arrive on eth1
+97  ARP request for 172.16.52.4 should leave from eth4
+98  UDP packet from 172.16.52.8 should arrive on eth4
+99  UDP packet from 172.16.44.3 should arrive on eth3
+100 UDP packet from 10.11.44.6 should arrive on eth2
+101 UDP packet from 172.16.44.7 should arrive on eth3
+102 UDP packet from 10.11.44.10 should arrive on eth2
+103 UDP packet from 172.16.44.11 should arrive on eth3
+104 UDP packet from 10.10.44.9 should arrive on eth1
+105 UDP packet from 172.16.52.12 should arrive on eth4
+106 UDP packet from 10.11.44.10 should arrive on eth3
+107 UDP packet from 172.16.44.11 should arrive on eth4
+108 UDP packet from 10.10.44.9 should arrive on eth2
+109 UDP packet from 172.16.52.12 should arrive on eth1
+110 Router should not do anything
+111 ARP request for 172.16.44.3 should leave from eth3
+112 ARP request for 10.10.44.1 should leave from eth1
+113 ARP request for 10.10.44.2 should leave from eth2
+114 ARP request for 172.16.52.4 should leave from eth4
+115 UDP packet to 10.10.128.14 should arrive on eth5
+116 UDP packet to 10.10.128.14 should leave from eth1
+117 Router should not do anything
+118 ARP request for 172.16.44.3 should leave from eth3
+119 ARP request for 10.10.44.1 should leave from eth1
+120 ARP request for 10.10.44.2 should leave from eth2
+121 ARP request for 172.16.52.4 should leave from eth4
+122 Ping request to 10.10.128.14 should arrive on eth5
+123 Ping request to 10.10.128.14 should leave from eth1
+124 ARP reply from 10.11.44.2 should arrive on eth2
+125 UDP packet to 10.11.44.2 should leave from eth2
+126 UDP packet to 10.11.44.2 should leave from eth2
+127 UDP packet to 10.11.44.2 should leave from eth2
+128 UDP packet to 10.11.44.2 should leave from eth2
+129 Router should not do anything
+130 ARP request for 172.16.44.3 should leave from eth3
+131 ARP request for 10.10.44.1 should leave from eth1
+132 ARP request for 172.16.52.4 should leave from eth4
+133 Ping request to 10.10.128.15 should arrive on eth5
+134 Ping request to 10.10.128.15 should leave from eth1
+135 ARP reply from 10.10.44.2 should arrive on eth1
+136 UDP packet to 10.10.44.1 should leave from eth1
+137 UDP packet to 10.10.44.1 should leave from eth1
+138 UDP packet to 10.10.44.1 should leave from eth1
+139 UDP packet to 10.10.44.1 should leave from eth1
+140 Router should not do anything
+141 ARP request for 172.16.44.3 should leave from eth3
+142 ARP request for 172.16.52.4 should leave from eth4
+143 Ping request to 10.10.128.14 should arrive on eth5
+144 Ping request to 10.10.128.14 should leave from eth1
+145 ARP reply from 172.16.52.2 should arrive on eth4
+146 UDP packet to 172.16.52.4 should leave from eth4
+147 UDP packet to 172.16.52.4 should leave from eth4
+148 UDP packet to 172.16.52.4 should leave from eth4
+149 UDP packet to 172.16.52.4 should leave from eth4
+150 ARP reply from 172.16.44.2 should arrive on eth3
+151 UDP packet to 172.16.44.3 should leave from eth3
+152 UDP packet to 172.16.44.3 should leave from eth3
+153 UDP packet to 172.16.44.3 should leave from eth3
+154 UDP packet to 172.16.44.3 should leave from eth3
+155 Routing Test
+156 UDP packet to 16.16.0.161 should arrive on eth5
+157 ARP request for 10.11.0.2 should leave from eth2
+158 ARP reply from 10.11.0.2 should arrive on eth2
+159 UDP packet to 16.16.0.161 should leave from eth2
+160 UDP packet to 15.25.0.146 should arrive on eth2
+161 ARP request for 192.168.129.2 should leave from eth6
+162 ARP reply from 192.168.129.2 should arrive on eth6
+163 UDP packet to 15.25.0.146 should leave from eth6
+164 UDP packet to 16.18.45.181 should arrive on eth5
+165 ARP request for 172.16.48.3 should leave from eth4
+166 ARP reply from 172.16.48.3 should arrive on eth4
+167 UDP packet to 16.18.45.181 should leave from eth4
+168 UDP packet to 10.11.0.180 should arrive on eth3
+169 ARP request for 10.11.0.180 should leave from eth2
+170 ARP reply from 10.11.0.180 should arrive on eth2
+171 UDP packet to 10.11.0.180 should leave from eth2
+172 UDP packet to 10.10.17.173 should arrive on eth6
+173 UDP packet to 10.10.17.173 should leave from eth3
+174 UDP packet to 10.10.0.180 should arrive on eth2
+175 ARP request for 10.10.0.180 should leave from eth1
+176 ARP reply from 10.10.0.180 should arrive on eth1
+177 UDP packet to 10.10.0.180 should leave from eth1
+178 UDP packet to 16.19.44.174 should arrive on eth6
+179 ARP request for 10.11.0.4 should leave from eth2
+180 ARP reply from 10.11.0.4 should arrive on eth2
+181 UDP packet to 16.19.44.174 should leave from eth2
+182 UDP packet to 15.16.0.200 should arrive on eth2
+183 UDP packet to 15.16.0.200 should leave from eth2
+184 UDP packet to 15.37.24.139 should arrive on eth4
+185 UDP packet to 15.37.24.139 should leave from eth6
+186 UDP packet to 172.17.0.144 should arrive on eth4
+187 UDP packet to 172.17.0.144 should leave from eth3
+188 UDP packet to 15.0.0.176 should arrive on eth3
+189 UDP packet to 15.0.0.176 should leave from eth5
+190 UDP packet to 172.16.40.148 should arrive on eth1
+191 ARP request for 172.16.40.148 should leave from eth3
+192 ARP reply from 172.16.40.148 should arrive on eth3
+193 UDP packet to 172.16.40.148 should leave from eth3
+194 UDP packet to 16.19.45.172 should arrive on eth2
+195 UDP packet to 16.19.45.172 should leave from eth6
+196 UDP packet to 10.10.16.174 should arrive on eth5
+197 UDP packet to 10.10.16.174 should leave from eth2
+198 UDP packet to 21.0.0.175 should arrive on eth2
+199 Router should not do anything
+200 UDP packet to 16.18.44.154 should arrive on eth3
+201 ARP request for 10.10.0.3 should leave from eth1
+202 ARP reply from 10.10.0.3 should arrive on eth1
+203 UDP packet to 16.18.44.154 should leave from eth1
+204 UDP packet to 15.37.0.140 should arrive on eth3
+205 UDP packet to 15.37.0.140 should leave from eth1
+206 UDP packet to 10.11.0.169 should arrive on eth6
+207 ARP request for 10.11.0.169 should leave from eth2
+208 ARP reply from 10.11.0.169 should arrive on eth2
+209 UDP packet to 10.11.0.169 should leave from eth2
+210 UDP packet to 16.19.46.195 should arrive on eth3
+211 ARP request for 172.16.40.4 should leave from eth3
+212 ARP reply from 172.16.40.4 should arrive on eth3
+213 UDP packet to 16.19.46.195 should leave from eth3
+214 UDP packet to 16.17.16.195 should arrive on eth6
+215 UDP packet to 16.17.16.195 should leave from eth5
+216 UDP packet to 7.0.0.155 should arrive on eth2
+217 Router should not do anything
+218 UDP packet to 172.16.0.158 should arrive on eth2
+219 UDP packet to 172.16.0.158 should leave from eth6
+220 UDP packet to 16.21.0.195 should arrive on eth3
+221 ARP request for 172.16.48.2 should leave from eth4
+222 ARP reply from 172.16.48.2 should arrive on eth4
+223 UDP packet to 16.21.0.195 should leave from eth4
+224 UDP packet to 16.16.0.174 should arrive on eth4
+225 UDP packet to 16.16.0.174 should leave from eth2
+226 UDP packet to 6.0.0.166 should arrive on eth2
+227 Router should not do anything
+228 UDP packet to 16.16.0.194 should arrive on eth6
+229 UDP packet to 16.16.0.194 should leave from eth2
+230 UDP packet to 21.0.0.156 should arrive on eth1
+231 Router should not do anything
+232 UDP packet to 10.11.0.192 should arrive on eth3
+233 ARP request for 10.11.0.192 should leave from eth2
+234 ARP reply from 10.11.0.192 should arrive on eth2
+235 UDP packet to 10.11.0.192 should leave from eth2
+236 UDP packet to 16.21.16.173 should arrive on eth6
+237 UDP packet to 16.21.16.173 should leave from eth3
+238 UDP packet to 172.0.0.199 should arrive on eth5
+239 UDP packet to 172.0.0.199 should leave from eth2
+240 UDP packet to 172.32.15.197 should arrive on eth1
+241 ARP request for 10.11.0.3 should leave from eth2
+242 ARP reply from 10.11.0.3 should arrive on eth2
+243 UDP packet to 172.32.15.197 should leave from eth2
+244 UDP packet to 10.10.18.161 should arrive on eth3
+245 UDP packet to 10.10.18.161 should leave from eth4
+246 UDP packet to 22.0.0.180 should arrive on eth2
+247 Router should not do anything
+248 UDP packet to 16.19.44.172 should arrive on eth4
+249 UDP packet to 16.19.44.172 should leave from eth2
+250 UDP packet to 10.11.19.160 should arrive on eth4
+251 ARP request for 172.16.48.4 should leave from eth4
+252 ARP reply from 172.16.48.4 should arrive on eth4
+253 UDP packet to 10.11.19.160 should leave from eth4
+254 UDP packet to 12.1.0.169 should arrive on eth2
+255 UDP packet to 12.1.0.169 should leave from eth2
+256 UDP packet to 172.16.0.154 should arrive on eth4
+257 UDP packet to 172.16.0.154 should leave from eth6
+258 UDP packet to 16.16.0.195 should arrive on eth1
+259 UDP packet to 16.16.0.195 should leave from eth2
+260 UDP packet to 10.10.16.157 should arrive on eth2
+261 UDP packet to 10.10.16.157 should leave from eth2
+262 UDP packet to 16.18.19.138 should arrive on eth5
+263 UDP packet to 16.18.19.138 should leave from eth2
+264 UDP packet to 10.11.39.159 should arrive on eth2
+265 ARP request for 10.10.0.2 should leave from eth1
+266 ARP reply from 10.10.0.2 should arrive on eth1
+267 UDP packet to 10.11.39.159 should leave from eth1
+268 UDP packet to 16.18.19.144 should arrive on eth4
+269 UDP packet to 16.18.19.144 should leave from eth2
+270 UDP packet to 16.21.16.147 should arrive on eth2
+271 UDP packet to 16.21.16.147 should leave from eth3
+272 UDP packet to 16.21.16.191 should arrive on eth1
+273 UDP packet to 16.21.16.191 should leave from eth3
+274 UDP packet to 15.38.0.151 should arrive on eth2
+275 UDP packet to 15.38.0.151 should leave from eth5
+276 UDP packet to 15.38.0.181 should arrive on eth1
+277 UDP packet to 15.38.0.181 should leave from eth5
+278 UDP packet to 172.32.0.189 should arrive on eth2
+279 UDP packet to 172.32.0.189 should leave from eth5
+280 UDP packet to 16.21.0.146 should arrive on eth2
+281 UDP packet to 16.21.0.146 should leave from eth4
+282 UDP packet to 10.11.36.194 should arrive on eth5
+283 UDP packet to 10.11.36.194 should leave from eth6
+284 UDP packet to 16.19.46.201 should arrive on eth4
+285 UDP packet to 16.19.46.201 should leave from eth3
+286 UDP packet to 16.19.45.196 should arrive on eth4
+287 UDP packet to 16.19.45.196 should leave from eth6
+288 UDP packet to 16.19.44.144 should arrive on eth5
+289 UDP packet to 16.19.44.144 should leave from eth2
+290 UDP packet to 16.18.45.172 should arrive on eth2
+291 UDP packet to 16.18.45.172 should leave from eth4
+292 UDP packet to 5.0.0.182 should arrive on eth4
+293 Router should not do anything
+294 UDP packet to 15.38.0.141 should arrive on eth5
+295 UDP packet to 15.38.0.141 should leave from eth5
+296 UDP packet to 21.0.0.195 should arrive on eth1
+297 Router should not do anything
+298 UDP packet to 6.0.0.145 should arrive on eth2
+299 Router should not do anything
+300 UDP packet to 16.21.0.162 should arrive on eth2
+301 UDP packet to 16.21.0.162 should leave from eth4
+302 UDP packet to 5.0.0.158 should arrive on eth3
+303 Router should not do anything
+304 UDP packet to 15.36.0.172 should arrive on eth1
+305 UDP packet to 15.36.0.172 should leave from eth4
+306 UDP packet to 16.18.44.200 should arrive on eth2
+307 UDP packet to 16.18.44.200 should leave from eth1
+308 UDP packet to 10.10.16.177 should arrive on eth4
+309 UDP packet to 10.10.16.177 should leave from eth2
+310 UDP packet to 15.38.35.189 should arrive on eth2
+311 UDP packet to 15.38.35.189 should leave from eth2
+312 UDP packet to 172.32.15.139 should arrive on eth3
+313 UDP packet to 172.32.15.139 should leave from eth2
+314 UDP packet to 172.16.40.200 should arrive on eth2
+315 ARP request for 172.16.40.200 should leave from eth3
+316 ARP reply from 172.16.40.200 should arrive on eth3
+317 UDP packet to 172.16.40.200 should leave from eth3
+318 UDP packet to 15.25.0.182 should arrive on eth3
+319 UDP packet to 15.25.0.182 should leave from eth6
+320 UDP packet to 15.37.24.183 should arrive on eth6
+321 UDP packet to 15.37.24.183 should leave from eth6
+322 UDP packet to 12.1.1.142 should arrive on eth4
+323 UDP packet to 12.1.1.142 should leave from eth3
+324 UDP packet to 21.0.0.140 should arrive on eth4
+325 Router should not do anything
+326 UDP packet to 10.11.39.147 should arrive on eth6
+327 UDP packet to 10.11.39.147 should leave from eth1
+328 UDP packet to 15.73.0.142 should arrive on eth6
+329 UDP packet to 15.73.0.142 should leave from eth1
+330 UDP packet to 15.25.20.185 should arrive on eth3
+331 UDP packet to 15.25.20.185 should leave from eth4
+332 UDP packet to 12.1.0.178 should arrive on eth2
+333 UDP packet to 12.1.0.178 should leave from eth2
+334 UDP packet to 16.16.0.198 should arrive on eth2
+335 UDP packet to 16.16.0.198 should leave from eth2
+336 UDP packet to 6.0.0.199 should arrive on eth2
+337 Router should not do anything
+338 UDP packet to 172.32.15.165 should arrive on eth1
+339 UDP packet to 172.32.15.165 should leave from eth2
+340 UDP packet to 6.0.0.181 should arrive on eth6
+341 Router should not do anything
+342 UDP packet to 22.0.0.146 should arrive on eth1
+343 Router should not do anything
+344 UDP packet to 15.63.0.189 should arrive on eth5
+345 UDP packet to 15.63.0.189 should leave from eth3
+346 UDP packet to 15.25.39.173 should arrive on eth5
+347 ARP request for 172.16.40.3 should leave from eth3
+348 ARP reply from 172.16.40.3 should arrive on eth3
+349 UDP packet to 15.25.39.173 should leave from eth3
+350 UDP packet to 16.21.0.193 should arrive on eth1
+351 UDP packet to 16.21.0.193 should leave from eth4
+352 UDP packet to 15.63.0.138 should arrive on eth5
+353 UDP packet to 15.63.0.138 should leave from eth3
+354 UDP packet to 15.73.0.174 should arrive on eth2
+355 UDP packet to 15.73.0.174 should leave from eth1
+356 UDP packet to 15.37.0.156 should arrive on eth4
+357 UDP packet to 15.37.0.156 should leave from eth1
+358 UDP packet to 16.0.0.157 should arrive on eth2
+359 UDP packet to 16.0.0.157 should leave from eth6
+360 UDP packet to 10.10.17.160 should arrive on eth3
+361 UDP packet to 10.10.17.160 should leave from eth3
+362 UDP packet to 16.18.19.163 should arrive on eth1
+363 UDP packet to 16.18.19.163 should leave from eth2
+364 UDP packet to 16.18.44.174 should arrive on eth2
+365 UDP packet to 16.18.44.174 should leave from eth1
+366 UDP packet to 15.0.0.159 should arrive on eth1
+367 UDP packet to 15.0.0.159 should leave from eth5
+368 UDP packet to 12.1.0.174 should arrive on eth1
+369 UDP packet to 12.1.0.174 should leave from eth2
+370 UDP packet to 10.11.36.151 should arrive on eth6
+371 UDP packet to 10.11.36.151 should leave from eth6
+372 UDP packet to 172.80.0.143 should arrive on eth2
+373 UDP packet to 172.80.0.143 should leave from eth4
+374 UDP packet to 16.0.0.176 should arrive on eth1
+375 UDP packet to 16.0.0.176 should leave from eth6
+376 UDP packet to 16.17.16.156 should arrive on eth4
+377 UDP packet to 16.17.16.156 should leave from eth5
+378 UDP packet to 172.17.0.163 should arrive on eth5
+379 UDP packet to 172.17.0.163 should leave from eth3
+380 UDP packet to 10.11.19.198 should arrive on eth3
+381 UDP packet to 10.11.19.198 should leave from eth4
+382 UDP packet to 172.31.0.149 should arrive on eth4
+383 UDP packet to 172.31.0.149 should leave from eth1
+384 UDP packet to 172.16.48.174 should arrive on eth4
+385 ARP request for 172.16.48.174 should leave from eth4
+386 ARP reply from 172.16.48.174 should arrive on eth4
+387 UDP packet to 172.16.48.174 should leave from eth4
+388 UDP packet to 10.10.16.183 should arrive on eth5
+389 UDP packet to 10.10.16.183 should leave from eth2
+390 UDP packet to 15.37.24.140 should arrive on eth2
+391 UDP packet to 15.37.24.140 should leave from eth6
+392 UDP packet to 10.11.19.162 should arrive on eth4
+393 UDP packet to 10.11.19.162 should leave from eth4
+394 UDP packet to 15.37.0.146 should arrive on eth3
+395 UDP packet to 15.37.0.146 should leave from eth1
+396 UDP packet to 16.0.0.178 should arrive on eth2
+397 UDP packet to 16.0.0.178 should leave from eth6
+398 UDP packet to 5.0.0.159 should arrive on eth2
+399 Router should not do anything
+400 UDP packet to 16.19.25.169 should arrive on eth6
+401 ARP request for 10.10.0.4 should leave from eth1
+402 ARP reply from 10.10.0.4 should arrive on eth1
+403 UDP packet to 16.19.25.169 should leave from eth1
+404 UDP packet to 16.18.0.183 should arrive on eth5
+405 UDP packet to 16.18.0.183 should leave from eth3
+406 UDP packet to 16.18.45.185 should arrive on eth2
+407 UDP packet to 16.18.45.185 should leave from eth4
+408 UDP packet to 10.11.0.175 should arrive on eth5
+409 ARP request for 10.11.0.175 should leave from eth2
+410 ARP reply from 10.11.0.175 should arrive on eth2
+411 UDP packet to 10.11.0.175 should leave from eth2
+412 UDP packet to 5.0.0.157 should arrive on eth2
+413 Router should not do anything
+414 UDP packet to 15.73.0.172 should arrive on eth4
+415 UDP packet to 15.73.0.172 should leave from eth1
+416 UDP packet to 15.25.0.151 should arrive on eth4
+417 UDP packet to 15.25.0.151 should leave from eth6
+418 UDP packet to 15.25.20.177 should arrive on eth2
+419 UDP packet to 15.25.20.177 should leave from eth4
+420 UDP packet to 15.36.0.191 should arrive on eth4
+421 UDP packet to 15.36.0.191 should leave from eth4
+422 UDP packet to 5.0.0.193 should arrive on eth1
+423 Router should not do anything
+424 UDP packet to 172.16.48.171 should arrive on eth2
+425 ARP request for 172.16.48.171 should leave from eth4
+426 ARP reply from 172.16.48.171 should arrive on eth4
+427 UDP packet to 172.16.48.171 should leave from eth4
+428 UDP packet to 15.37.24.145 should arrive on eth3
+429 UDP packet to 15.37.24.145 should leave from eth6
+430 UDP packet to 10.11.19.148 should arrive on eth4
+431 UDP packet to 10.11.19.148 should leave from eth4
+432 UDP packet to 15.37.0.188 should arrive on eth2
+433 UDP packet to 15.37.0.188 should leave from eth1
+434 UDP packet to 6.0.0.155 should arrive on eth2
+435 Router should not do anything
+436 UDP packet to 172.0.0.165 should arrive on eth5
+437 UDP packet to 172.0.0.165 should leave from eth2
+438 UDP packet to 172.16.0.153 should arrive on eth5
+439 UDP packet to 172.16.0.153 should leave from eth6
+440 UDP packet to 172.32.0.187 should arrive on eth2
+441 UDP packet to 172.32.0.187 should leave from eth5
+442 UDP packet to 172.16.63.151 should arrive on eth4
+443 UDP packet to 172.16.63.151 should leave from eth1
+444 UDP packet to 15.63.0.186 should arrive on eth3
+445 UDP packet to 15.63.0.186 should leave from eth3
+446 UDP packet to 15.25.20.187 should arrive on eth3
+447 UDP packet to 15.25.20.187 should leave from eth4
+448 UDP packet to 15.38.35.186 should arrive on eth5
+449 UDP packet to 15.38.35.186 should leave from eth2
+450 UDP packet to 10.11.19.175 should arrive on eth1
+451 UDP packet to 10.11.19.175 should leave from eth4
+452 UDP packet to 15.36.0.146 should arrive on eth6
+453 UDP packet to 15.36.0.146 should leave from eth4
+454 UDP packet to 16.0.0.176 should arrive on eth4
+455 UDP packet to 16.0.0.176 should leave from eth6
+456 UDP packet to 10.0.0.184 should arrive on eth4
+457 UDP packet to 10.0.0.184 should leave from eth5
+458 UDP packet to 10.0.0.159 should arrive on eth1
+459 UDP packet to 10.0.0.159 should leave from eth5
+460 UDP packet to 15.25.20.144 should arrive on eth3
+461 UDP packet to 15.25.20.144 should leave from eth4
+462 UDP packet to 15.37.0.138 should arrive on eth4
+463 UDP packet to 15.37.0.138 should leave from eth1
+464 UDP packet to 16.17.0.173 should arrive on eth5
+465 UDP packet to 16.17.0.173 should leave from eth1
+466 UDP packet to 16.17.16.139 should arrive on eth3
+467 UDP packet to 16.17.16.139 should leave from eth5
+468 UDP packet to 10.0.0.198 should arrive on eth3
+469 UDP packet to 10.0.0.198 should leave from eth5
+470 UDP packet to 16.19.46.178 should arrive on eth4
+471 UDP packet to 16.19.46.178 should leave from eth3
+472 UDP packet to 172.16.63.197 should arrive on eth3
+473 UDP packet to 172.16.63.197 should leave from eth1
+474 UDP packet to 172.32.0.186 should arrive on eth5
+475 UDP packet to 172.32.0.186 should leave from eth5
+476 UDP packet to 15.38.0.156 should arrive on eth1
+477 UDP packet to 15.38.0.156 should leave from eth5
+478 UDP packet to 16.17.0.150 should arrive on eth1
+479 UDP packet to 16.17.0.150 should leave from eth1
+480 UDP packet to 172.32.0.142 should arrive on eth2
+481 UDP packet to 172.32.0.142 should leave from eth5
+482 UDP packet to 15.37.0.151 should arrive on eth4
+483 UDP packet to 15.37.0.151 should leave from eth1
+484 UDP packet to 16.19.0.151 should arrive on eth3
+485 UDP packet to 16.19.0.151 should leave from eth4
+486 UDP packet to 172.31.0.175 should arrive on eth5
+487 UDP packet to 172.31.0.175 should leave from eth1
+488 UDP packet to 172.31.0.199 should arrive on eth6
+489 UDP packet to 172.31.0.199 should leave from eth1
+490 UDP packet to 172.16.63.169 should arrive on eth1
+491 UDP packet to 172.16.63.169 should leave from eth1
+492 UDP packet to 7.0.0.192 should arrive on eth4
+493 Router should not do anything
+494 UDP packet to 10.11.39.145 should arrive on eth6
+495 UDP packet to 10.11.39.145 should leave from eth1
+496 UDP packet to 10.10.17.142 should arrive on eth4
+497 UDP packet to 10.10.17.142 should leave from eth3
+498 UDP packet to 172.31.0.163 should arrive on eth3
+499 UDP packet to 172.31.0.163 should leave from eth1
+500 UDP packet to 10.11.0.149 should arrive on eth3
+501 ARP request for 10.11.0.149 should leave from eth2
+502 ARP reply from 10.11.0.149 should arrive on eth2
+503 UDP packet to 10.11.0.149 should leave from eth2
+504 UDP packet to 15.25.20.143 should arrive on eth1
+505 UDP packet to 15.25.20.143 should leave from eth4
+506 UDP packet to 6.0.0.201 should arrive on eth2
+507 Router should not do anything
+508 UDP packet to 172.16.0.168 should arrive on eth1
+509 UDP packet to 172.16.0.168 should leave from eth6
+510 UDP packet to 172.31.0.159 should arrive on eth3
+511 UDP packet to 172.31.0.159 should leave from eth1
+512 UDP packet to 10.10.0.175 should arrive on eth5
+513 ARP request for 10.10.0.175 should leave from eth1
+514 ARP reply from 10.10.0.175 should arrive on eth1
+515 UDP packet to 10.10.0.175 should leave from eth1
+516 UDP packet to 15.16.0.197 should arrive on eth5
+517 UDP packet to 15.16.0.197 should leave from eth2
+518 UDP packet to 15.25.20.166 should arrive on eth3
+519 UDP packet to 15.25.20.166 should leave from eth4
+520 UDP packet to 10.10.17.156 should arrive on eth2
+521 UDP packet to 10.10.17.156 should leave from eth3
+522 UDP packet to 10.10.0.186 should arrive on eth1
+523 ARP request for 10.10.0.186 should leave from eth1
+524 ARP reply from 10.10.0.186 should arrive on eth1
+525 UDP packet to 10.10.0.186 should leave from eth1
+526 UDP packet to 10.10.18.142 should arrive on eth5
+527 UDP packet to 10.10.18.142 should leave from eth4
+528 UDP packet to 5.0.0.145 should arrive on eth5
+529 Router should not do anything
+530 UDP packet to 16.17.16.153 should arrive on eth4
+531 UDP packet to 16.17.16.153 should leave from eth5
+532 UDP packet to 10.11.19.154 should arrive on eth3
+533 UDP packet to 10.11.19.154 should leave from eth4
+534 UDP packet to 172.16.40.173 should arrive on eth3
+535 ARP request for 172.16.40.173 should leave from eth3
+536 ARP reply from 172.16.40.173 should arrive on eth3
+537 UDP packet to 172.16.40.173 should leave from eth3
+538 UDP packet to 22.0.0.149 should arrive on eth1
+539 Router should not do anything
+540 UDP packet to 16.19.44.165 should arrive on eth4
+541 UDP packet to 16.19.44.165 should leave from eth2
+542 UDP packet to 16.17.16.195 should arrive on eth4
+543 UDP packet to 16.17.16.195 should leave from eth5
+544 UDP packet to 15.0.0.193 should arrive on eth3
+545 UDP packet to 15.0.0.193 should leave from eth5
+546 UDP packet to 16.21.16.157 should arrive on eth3
+547 UDP packet to 16.21.16.157 should leave from eth3
+548 UDP packet to 12.1.1.153 should arrive on eth6
+549 UDP packet to 12.1.1.153 should leave from eth3
+550 UDP packet to 16.19.46.161 should arrive on eth4
+551 UDP packet to 16.19.46.161 should leave from eth3
+552 UDP packet to 16.19.0.186 should arrive on eth1
+553 UDP packet to 16.19.0.186 should leave from eth4
+554 UDP packet to 16.21.0.146 should arrive on eth3
+555 UDP packet to 16.21.0.146 should leave from eth4
+556 UDP packet to 16.0.0.175 should arrive on eth5
+557 UDP packet to 16.0.0.175 should leave from eth6
+558 UDP packet to 16.17.16.169 should arrive on eth1
+559 UDP packet to 16.17.16.169 should leave from eth5
+560 UDP packet to 16.19.25.147 should arrive on eth4
+561 UDP packet to 16.19.25.147 should leave from eth1
+562 UDP packet to 15.38.0.155 should arrive on eth4
+563 UDP packet to 15.38.0.155 should leave from eth5
+564 UDP packet to 172.0.0.190 should arrive on eth2
+565 UDP packet to 172.0.0.190 should leave from eth2
+566 UDP packet to 16.19.45.151 should arrive on eth2
+567 UDP packet to 16.19.45.151 should leave from eth6
+568 UDP packet to 10.10.18.143 should arrive on eth6
+569 UDP packet to 10.10.18.143 should leave from eth4
+570 UDP packet to 15.25.39.172 should arrive on eth3
+571 UDP packet to 15.25.39.172 should leave from eth3
+572 UDP packet to 16.21.16.194 should arrive on eth4
+573 UDP packet to 16.21.16.194 should leave from eth3
+574 UDP packet to 15.0.0.201 should arrive on eth3
+575 UDP packet to 15.0.0.201 should leave from eth5
+576 UDP packet to 10.11.0.158 should arrive on eth4
+577 ARP request for 10.11.0.158 should leave from eth2
+578 ARP reply from 10.11.0.158 should arrive on eth2
+579 UDP packet to 10.11.0.158 should leave from eth2
+580 UDP packet to 7.0.0.161 should arrive on eth4
+581 Router should not do anything
+582 UDP packet to 12.1.1.169 should arrive on eth5
+583 UDP packet to 12.1.1.169 should leave from eth3
+584 UDP packet to 7.0.0.147 should arrive on eth1
+585 Router should not do anything
+586 UDP packet to 15.0.0.161 should arrive on eth2
+587 UDP packet to 15.0.0.161 should leave from eth5
+588 UDP packet to 15.37.0.190 should arrive on eth2
+589 UDP packet to 15.37.0.190 should leave from eth1
+590 UDP packet to 15.37.0.155 should arrive on eth3
+591 UDP packet to 15.37.0.155 should leave from eth1
+592 UDP packet to 172.16.63.179 should arrive on eth4
+593 UDP packet to 172.16.63.179 should leave from eth1
+594 UDP packet to 172.31.0.163 should arrive on eth3
+595 UDP packet to 172.31.0.163 should leave from eth1
+596 UDP packet to 172.16.0.140 should arrive on eth4
+597 UDP packet to 172.16.0.140 should leave from eth6
+598 UDP packet to 10.11.39.201 should arrive on eth1
+599 UDP packet to 10.11.39.201 should leave from eth1
+600 UDP packet to 10.10.18.191 should arrive on eth4
+601 UDP packet to 10.10.18.191 should leave from eth4
+602 UDP packet to 10.0.0.142 should arrive on eth5
+603 UDP packet to 10.0.0.142 should leave from eth5
+604 UDP packet to 15.37.0.168 should arrive on eth3
+605 UDP packet to 15.37.0.168 should leave from eth1
+606 UDP packet to 172.80.0.195 should arrive on eth3
+607 UDP packet to 172.80.0.195 should leave from eth4
+608 UDP packet to 16.21.0.194 should arrive on eth2
+609 UDP packet to 16.21.0.194 should leave from eth4
+610 UDP packet to 10.11.39.160 should arrive on eth2
+611 UDP packet to 10.11.39.160 should leave from eth1
+612 UDP packet to 172.16.48.185 should arrive on eth5
+613 ARP request for 172.16.48.185 should leave from eth4
+614 ARP reply from 172.16.48.185 should arrive on eth4
+615 UDP packet to 172.16.48.185 should leave from eth4
+616 UDP packet to 10.11.36.159 should arrive on eth5
+617 UDP packet to 10.11.36.159 should leave from eth6
+618 UDP packet to 10.11.36.197 should arrive on eth3
+619 UDP packet to 10.11.36.197 should leave from eth6
+620 UDP packet to 21.0.0.142 should arrive on eth5
+621 Router should not do anything
+622 UDP packet to 16.18.0.145 should arrive on eth1
+623 UDP packet to 16.18.0.145 should leave from eth3
+624 UDP packet to 10.11.19.142 should arrive on eth2
+625 UDP packet to 10.11.19.142 should leave from eth4
+626 UDP packet to 16.19.0.159 should arrive on eth5
+627 UDP packet to 16.19.0.159 should leave from eth4
+628 UDP packet to 172.16.48.140 should arrive on eth1
+629 ARP request for 172.16.48.140 should leave from eth4
+630 ARP reply from 172.16.48.140 should arrive on eth4
+631 UDP packet to 172.16.48.140 should leave from eth4
+632 UDP packet to 172.32.15.146 should arrive on eth1
+633 UDP packet to 172.32.15.146 should leave from eth2
+634 UDP packet to 6.0.0.159 should arrive on eth4
+635 Router should not do anything
+636 UDP packet to 172.31.0.150 should arrive on eth3
+637 UDP packet to 172.31.0.150 should leave from eth1
+638 UDP packet to 16.18.0.190 should arrive on eth3
+639 UDP packet to 16.18.0.190 should leave from eth3
+640 UDP packet to 16.18.0.154 should arrive on eth3
+641 UDP packet to 16.18.0.154 should leave from eth3
+642 UDP packet to 172.17.0.182 should arrive on eth3
+643 UDP packet to 172.17.0.182 should leave from eth3
+644 UDP packet to 16.19.46.156 should arrive on eth5
+645 UDP packet to 16.19.46.156 should leave from eth3
+646 UDP packet to 16.0.0.143 should arrive on eth2
+647 UDP packet to 16.0.0.143 should leave from eth6
+648 UDP packet to 15.37.24.161 should arrive on eth5
+649 UDP packet to 15.37.24.161 should leave from eth6
+650 UDP packet to 10.11.36.195 should arrive on eth2
+651 UDP packet to 10.11.36.195 should leave from eth6
+652 UDP packet to 16.19.46.201 should arrive on eth3
+653 UDP packet to 16.19.46.201 should leave from eth3
+654 UDP packet to 16.18.0.196 should arrive on eth5
+655 UDP packet to 16.18.0.196 should leave from eth3
+656 UDP packet to 16.0.0.145 should arrive on eth3
+657 UDP packet to 16.0.0.145 should leave from eth6
+658 UDP packet to 16.18.44.188 should arrive on eth4
+659 UDP packet to 16.18.44.188 should leave from eth1
+660 UDP packet to 15.38.35.177 should arrive on eth6
+661 UDP packet to 15.38.35.177 should leave from eth2
+662 UDP packet to 10.11.37.161 should arrive on eth3
+663 UDP packet to 10.11.37.161 should leave from eth3
+664 UDP packet to 16.18.45.166 should arrive on eth5
+665 UDP packet to 16.18.45.166 should leave from eth4
+666 UDP packet to 172.32.15.154 should arrive on eth6
+667 UDP packet to 172.32.15.154 should leave from eth2
+668 UDP packet to 16.18.19.159 should arrive on eth1
+669 UDP packet to 16.18.19.159 should leave from eth2
+670 UDP packet to 10.10.18.145 should arrive on eth6
+671 UDP packet to 10.10.18.145 should leave from eth4
+672 UDP packet to 22.0.0.180 should arrive on eth6
+673 Router should not do anything
+674 UDP packet to 10.11.0.198 should arrive on eth2
+675 ARP request for 10.11.0.198 should leave from eth2
+676 ARP reply from 10.11.0.198 should arrive on eth2
+677 UDP packet to 10.11.0.198 should leave from eth2
+678 UDP packet to 16.19.25.167 should arrive on eth1
+679 UDP packet to 16.19.25.167 should leave from eth1
+680 UDP packet to 172.16.48.151 should arrive on eth1
+681 ARP request for 172.16.48.151 should leave from eth4
+682 ARP reply from 172.16.48.151 should arrive on eth4
+683 UDP packet to 172.16.48.151 should leave from eth4
+684 UDP packet to 7.0.0.176 should arrive on eth3
+685 Router should not do anything
+686 UDP packet to 10.10.0.179 should arrive on eth4
+687 ARP request for 10.10.0.179 should leave from eth1
+688 ARP reply from 10.10.0.179 should arrive on eth1
+689 UDP packet to 10.10.0.179 should leave from eth1
+690 UDP packet to 16.18.19.194 should arrive on eth1
+691 UDP packet to 16.18.19.194 should leave from eth2
+692 UDP packet to 172.17.0.139 should arrive on eth3
+693 UDP packet to 172.17.0.139 should leave from eth3
+694 UDP packet to 172.0.0.198 should arrive on eth5
+695 UDP packet to 172.0.0.198 should leave from eth2
+696 UDP packet to 16.19.0.181 should arrive on eth5
+697 UDP packet to 16.19.0.181 should leave from eth4
+698 UDP packet to 172.32.0.141 should arrive on eth4
+699 UDP packet to 172.32.0.141 should leave from eth5
+700 UDP packet to 172.16.63.165 should arrive on eth3
+701 UDP packet to 172.16.63.165 should leave from eth1
+702 UDP packet to 15.37.0.154 should arrive on eth3
+703 UDP packet to 15.37.0.154 should leave from eth1
+704 UDP packet to 172.17.0.161 should arrive on eth4
+705 UDP packet to 172.17.0.161 should leave from eth3
+706 UDP packet to 16.19.0.180 should arrive on eth5
+707 UDP packet to 16.19.0.180 should leave from eth4
+708 UDP packet to 10.11.39.159 should arrive on eth3
+709 UDP packet to 10.11.39.159 should leave from eth1
+710 UDP packet to 5.0.0.185 should arrive on eth4
+711 Router should not do anything
+712 UDP packet to 16.18.45.182 should arrive on eth3
+713 UDP packet to 16.18.45.182 should leave from eth4
+714 UDP packet to 15.36.0.158 should arrive on eth6
+715 UDP packet to 15.36.0.158 should leave from eth4
+716 UDP packet to 5.0.0.157 should arrive on eth2
+717 Router should not do anything
+718 UDP packet to 16.19.46.166 should arrive on eth5
+719 UDP packet to 16.19.46.166 should leave from eth3
+720 UDP packet to 16.18.0.169 should arrive on eth1
+721 UDP packet to 16.18.0.169 should leave from eth3
+722 UDP packet to 15.36.0.180 should arrive on eth5
+723 UDP packet to 15.36.0.180 should leave from eth4
+724 UDP packet to 15.37.0.175 should arrive on eth5
+725 UDP packet to 15.37.0.175 should leave from eth1
+726 UDP packet to 16.18.45.154 should arrive on eth3
+727 UDP packet to 16.18.45.154 should leave from eth4
+728 UDP packet to 10.11.0.151 should arrive on eth1
+729 ARP request for 10.11.0.151 should leave from eth2
+730 ARP reply from 10.11.0.151 should arrive on eth2
+731 UDP packet to 10.11.0.151 should leave from eth2
+732 UDP packet to 172.32.15.155 should arrive on eth6
+733 UDP packet to 172.32.15.155 should leave from eth2
+734 UDP packet to 16.17.16.165 should arrive on eth3
+735 UDP packet to 16.17.16.165 should leave from eth5
+736 UDP packet to 16.19.44.176 should arrive on eth3
+737 UDP packet to 16.19.44.176 should leave from eth2
+738 UDP packet to 172.16.63.179 should arrive on eth3
+739 UDP packet to 172.16.63.179 should leave from eth1
+740 UDP packet to 16.16.0.198 should arrive on eth5
+741 UDP packet to 16.16.0.198 should leave from eth2
+742 UDP packet to 16.17.16.157 should arrive on eth2
+743 UDP packet to 16.17.16.157 should leave from eth5
+744 UDP packet to 172.0.0.178 should arrive on eth1
+745 UDP packet to 172.0.0.178 should leave from eth2
+746 UDP packet to 15.0.0.168 should arrive on eth4
+747 UDP packet to 15.0.0.168 should leave from eth5
+748 UDP packet to 15.25.20.183 should arrive on eth3
+749 UDP packet to 15.25.20.183 should leave from eth4
+750 UDP packet to 16.19.46.150 should arrive on eth5
+751 UDP packet to 16.19.46.150 should leave from eth3
+752 UDP packet to 15.0.0.143 should arrive on eth2
+753 UDP packet to 15.0.0.143 should leave from eth5
+754 UDP packet to 16.18.19.183 should arrive on eth3
+755 UDP packet to 16.18.19.183 should leave from eth2
+756 UDP packet to 16.19.25.164 should arrive on eth4
+757 UDP packet to 16.19.25.164 should leave from eth1
+758 UDP packet to 21.0.0.160 should arrive on eth2
+759 Router should not do anything
+760 UDP packet to 6.0.0.188 should arrive on eth2
+761 Router should not do anything
+762 UDP packet to 172.16.40.198 should arrive on eth4
+763 ARP request for 172.16.40.198 should leave from eth3
+764 ARP reply from 172.16.40.198 should arrive on eth3
+765 UDP packet to 172.16.40.198 should leave from eth3
+766 UDP packet to 12.1.0.178 should arrive on eth4
+767 UDP packet to 12.1.0.178 should leave from eth2
+768 UDP packet to 16.19.0.151 should arrive on eth4
+769 UDP packet to 16.19.0.151 should leave from eth4
+770 UDP packet to 16.17.16.171 should arrive on eth6
+771 UDP packet to 16.17.16.171 should leave from eth5
+772 UDP packet to 22.0.0.164 should arrive on eth3
+773 Router should not do anything
+774 UDP packet to 15.37.24.149 should arrive on eth1
+775 UDP packet to 15.37.24.149 should leave from eth6
+776 UDP packet to 10.11.19.151 should arrive on eth2
+777 UDP packet to 10.11.19.151 should leave from eth4
+778 UDP packet to 16.17.16.160 should arrive on eth3
+779 UDP packet to 16.17.16.160 should leave from eth5
+780 UDP packet to 15.37.24.162 should arrive on eth4
+781 UDP packet to 15.37.24.162 should leave from eth6
+782 UDP packet to 15.38.0.140 should arrive on eth3
+783 UDP packet to 15.38.0.140 should leave from eth5
+784 UDP packet to 10.10.18.167 should arrive on eth3
+785 UDP packet to 10.10.18.167 should leave from eth4
+786 UDP packet to 10.10.17.196 should arrive on eth3
+787 UDP packet to 10.10.17.196 should leave from eth3
+788 UDP packet to 16.19.46.174 should arrive on eth1
+789 UDP packet to 16.19.46.174 should leave from eth3
+790 UDP packet to 21.0.0.197 should arrive on eth2
+791 Router should not do anything
+792 UDP packet to 22.0.0.166 should arrive on eth1
+793 Router should not do anything
+794 UDP packet to 10.11.19.192 should arrive on eth1
+795 UDP packet to 10.11.19.192 should leave from eth4
+796 UDP packet to 16.21.0.146 should arrive on eth4
+797 UDP packet to 16.21.0.146 should leave from eth4
+798 UDP packet to 15.16.0.171 should arrive on eth2
+799 UDP packet to 15.16.0.171 should leave from eth2
+800 UDP packet to 16.19.44.195 should arrive on eth6
+801 UDP packet to 16.19.44.195 should leave from eth2
+802 UDP packet to 15.36.0.151 should arrive on eth6
+803 UDP packet to 15.36.0.151 should leave from eth4
+804 UDP packet to 16.19.25.155 should arrive on eth5
+805 UDP packet to 16.19.25.155 should leave from eth1
+806 UDP packet to 15.0.0.192 should arrive on eth6
+807 UDP packet to 15.0.0.192 should leave from eth5
+808 UDP packet to 10.0.0.175 should arrive on eth3
+809 UDP packet to 10.0.0.175 should leave from eth5
+810 UDP packet to 172.80.0.141 should arrive on eth2
+811 UDP packet to 172.80.0.141 should leave from eth4
+812 UDP packet to 12.1.0.138 should arrive on eth3
+813 UDP packet to 12.1.0.138 should leave from eth2
+814 UDP packet to 15.63.0.169 should arrive on eth6
+815 UDP packet to 15.63.0.169 should leave from eth3
+816 UDP packet to 16.18.44.161 should arrive on eth5
+817 UDP packet to 16.18.44.161 should leave from eth1
+818 UDP packet to 15.0.0.162 should arrive on eth1
+819 UDP packet to 15.0.0.162 should leave from eth5
+820 UDP packet to 16.18.44.168 should arrive on eth3
+821 UDP packet to 16.18.44.168 should leave from eth1
+822 UDP packet to 15.0.0.158 should arrive on eth4
+823 UDP packet to 15.0.0.158 should leave from eth5
+824 UDP packet to 172.31.0.168 should arrive on eth4
+825 UDP packet to 172.31.0.168 should leave from eth1
+826 UDP packet to 16.19.44.176 should arrive on eth2
+827 UDP packet to 16.19.44.176 should leave from eth2
+828 UDP packet to 15.37.0.177 should arrive on eth1
+829 UDP packet to 15.37.0.177 should leave from eth1
+830 UDP packet to 16.18.0.172 should arrive on eth2
+831 UDP packet to 16.18.0.172 should leave from eth3
+832 UDP packet to 16.17.0.166 should arrive on eth2
+833 UDP packet to 16.17.0.166 should leave from eth1
+834 UDP packet to 15.16.0.192 should arrive on eth4
+835 UDP packet to 15.16.0.192 should leave from eth2
+836 UDP packet to 172.16.48.170 should arrive on eth6
+837 ARP request for 172.16.48.170 should leave from eth4
+838 ARP reply from 172.16.48.170 should arrive on eth4
+839 UDP packet to 172.16.48.170 should leave from eth4
+840 UDP packet to 172.16.63.174 should arrive on eth5
+841 UDP packet to 172.16.63.174 should leave from eth1
+842 UDP packet to 16.19.45.180 should arrive on eth1
+843 UDP packet to 16.19.45.180 should leave from eth6
+844 UDP packet to 15.25.20.170 should arrive on eth2
+845 UDP packet to 15.25.20.170 should leave from eth4
+846 UDP packet to 15.37.24.179 should arrive on eth4
+847 UDP packet to 15.37.24.179 should leave from eth6
+848 UDP packet to 16.21.0.150 should arrive on eth6
+849 UDP packet to 16.21.0.150 should leave from eth4
+850 UDP packet to 12.1.0.163 should arrive on eth6
+851 UDP packet to 12.1.0.163 should leave from eth2
+852 UDP packet to 16.17.0.162 should arrive on eth1
+853 UDP packet to 16.17.0.162 should leave from eth1
+854 UDP packet to 172.16.48.153 should arrive on eth3
+855 ARP request for 172.16.48.153 should leave from eth4
+856 ARP reply from 172.16.48.153 should arrive on eth4
+857 UDP packet to 172.16.48.153 should leave from eth4
+858 UDP packet to 15.25.0.190 should arrive on eth6
+859 UDP packet to 15.25.0.190 should leave from eth6
+860 UDP packet to 15.25.39.182 should arrive on eth4
+861 UDP packet to 15.25.39.182 should leave from eth3
+862 UDP packet to 15.25.20.156 should arrive on eth4
+863 UDP packet to 15.25.20.156 should leave from eth4
+864 UDP packet to 10.11.36.163 should arrive on eth2
+865 UDP packet to 10.11.36.163 should leave from eth6
+866 UDP packet to 15.25.39.156 should arrive on eth1
+867 UDP packet to 15.25.39.156 should leave from eth3
+868 UDP packet to 16.18.44.160 should arrive on eth3
+869 UDP packet to 16.18.44.160 should leave from eth1
+870 UDP packet to 10.11.36.166 should arrive on eth3
+871 UDP packet to 10.11.36.166 should leave from eth6
+872 UDP packet to 15.36.0.165 should arrive on eth3
+873 UDP packet to 15.36.0.165 should leave from eth4
+874 UDP packet to 10.0.0.184 should arrive on eth1
+875 UDP packet to 10.0.0.184 should leave from eth5
+876 UDP packet to 16.19.0.170 should arrive on eth2
+877 UDP packet to 16.19.0.170 should leave from eth4
+878 UDP packet to 10.11.39.157 should arrive on eth3
+879 UDP packet to 10.11.39.157 should leave from eth1
+880 UDP packet to 22.0.0.188 should arrive on eth5
+881 Router should not do anything
+882 UDP packet to 22.0.0.177 should arrive on eth6
+883 Router should not do anything
+884 UDP packet to 10.10.0.192 should arrive on eth4
+885 ARP request for 10.10.0.192 should leave from eth1
+886 ARP reply from 10.10.0.192 should arrive on eth1
+887 UDP packet to 10.10.0.192 should leave from eth1
+888 UDP packet to 10.11.19.197 should arrive on eth5
+889 UDP packet to 10.11.19.197 should leave from eth4
+890 UDP packet to 172.31.0.160 should arrive on eth5
+891 UDP packet to 172.31.0.160 should leave from eth1
+892 UDP packet to 7.0.0.181 should arrive on eth3
+893 Router should not do anything
+894 UDP packet to 16.21.33.172 should arrive on eth2
+895 UDP packet to 16.21.33.172 should leave from eth5
+896 UDP packet to 16.19.25.144 should arrive on eth5
+897 UDP packet to 16.19.25.144 should leave from eth1
+898 UDP packet to 172.0.0.188 should arrive on eth1
+899 UDP packet to 172.0.0.188 should leave from eth2
+900 UDP packet to 172.17.0.138 should arrive on eth3
+901 UDP packet to 172.17.0.138 should leave from eth3
+902 UDP packet to 16.19.46.141 should arrive on eth5
+903 UDP packet to 16.19.46.141 should leave from eth3
+904 UDP packet to 16.17.0.162 should arrive on eth6
+905 UDP packet to 16.17.0.162 should leave from eth1
+906 UDP packet to 16.18.44.197 should arrive on eth3
+907 UDP packet to 16.18.44.197 should leave from eth1
+908 UDP packet to 15.25.0.174 should arrive on eth3
+909 UDP packet to 15.25.0.174 should leave from eth6
+910 UDP packet to 10.10.16.177 should arrive on eth3
+911 UDP packet to 10.10.16.177 should leave from eth2
+912 UDP packet to 172.16.63.148 should arrive on eth4
+913 UDP packet to 172.16.63.148 should leave from eth1
+914 UDP packet to 10.10.18.172 should arrive on eth4
+915 UDP packet to 10.10.18.172 should leave from eth4
+916 UDP packet to 172.80.0.179 should arrive on eth6
+917 UDP packet to 172.80.0.179 should leave from eth4
+918 UDP packet to 10.0.0.161 should arrive on eth2
+919 UDP packet to 10.0.0.161 should leave from eth5
+920 UDP packet to 15.25.39.183 should arrive on eth1
+921 UDP packet to 15.25.39.183 should leave from eth3
+922 UDP packet to 16.19.25.198 should arrive on eth5
+923 UDP packet to 16.19.25.198 should leave from eth1
+924 UDP packet to 172.17.0.178 should arrive on eth2
+925 UDP packet to 172.17.0.178 should leave from eth3
+926 UDP packet to 15.63.0.186 should arrive on eth6
+927 UDP packet to 15.63.0.186 should leave from eth3
+928 UDP packet to 10.11.37.192 should arrive on eth4
+929 UDP packet to 10.11.37.192 should leave from eth3
+930 UDP packet to 16.17.16.139 should arrive on eth3
+931 UDP packet to 16.17.16.139 should leave from eth5
+932 UDP packet to 16.18.45.174 should arrive on eth6
+933 UDP packet to 16.18.45.174 should leave from eth4
+934 UDP packet to 16.21.33.198 should arrive on eth3
+935 UDP packet to 16.21.33.198 should leave from eth5
+936 UDP packet to 15.25.20.183 should arrive on eth3
+937 UDP packet to 15.25.20.183 should leave from eth4
+938 UDP packet to 16.17.0.186 should arrive on eth3
+939 UDP packet to 16.17.0.186 should leave from eth1
+940 UDP packet to 16.19.46.158 should arrive on eth6
+941 UDP packet to 16.19.46.158 should leave from eth3
+942 UDP packet to 172.32.0.184 should arrive on eth5
+943 UDP packet to 172.32.0.184 should leave from eth5
+944 UDP packet to 15.63.0.166 should arrive on eth1
+945 UDP packet to 15.63.0.166 should leave from eth3
+946 UDP packet to 10.11.36.148 should arrive on eth5
+947 UDP packet to 10.11.36.148 should leave from eth6
+948 UDP packet to 16.18.44.198 should arrive on eth1
+949 UDP packet to 16.18.44.198 should leave from eth1
+950 UDP packet to 16.19.44.177 should arrive on eth6
+951 UDP packet to 16.19.44.177 should leave from eth2
+952 UDP packet to 16.18.19.193 should arrive on eth3
+953 UDP packet to 16.18.19.193 should leave from eth2
+954 UDP packet to 15.25.20.172 should arrive on eth2
+955 UDP packet to 15.25.20.172 should leave from eth4
+956 UDP packet to 15.37.24.191 should arrive on eth5
+957 UDP packet to 15.37.24.191 should leave from eth6
+958 UDP packet to 10.11.37.183 should arrive on eth5
+959 UDP packet to 10.11.37.183 should leave from eth3
+960 UDP packet to 15.38.0.198 should arrive on eth1
+961 UDP packet to 15.38.0.198 should leave from eth5
+962 UDP packet to 15.63.0.185 should arrive on eth5
+963 UDP packet to 15.63.0.185 should leave from eth3
+964 UDP packet to 5.0.0.198 should arrive on eth1
+965 Router should not do anything
+966 UDP packet to 16.18.44.147 should arrive on eth2
+967 UDP packet to 16.18.44.147 should leave from eth1
+968 UDP packet to 15.38.35.178 should arrive on eth5
+969 UDP packet to 15.38.35.178 should leave from eth2
+970 UDP packet to 16.0.0.167 should arrive on eth4
+971 UDP packet to 16.0.0.167 should leave from eth6
+972 UDP packet to 16.19.45.189 should arrive on eth5
+973 UDP packet to 16.19.45.189 should leave from eth6
+974 UDP packet to 172.80.0.191 should arrive on eth1
+975 UDP packet to 172.80.0.191 should leave from eth4
+976 UDP packet to 172.16.48.151 should arrive on eth4
+977 UDP packet to 172.16.48.151 should leave from eth4
+978 UDP packet to 5.0.0.147 should arrive on eth5
+979 Router should not do anything
+980 UDP packet to 16.19.0.157 should arrive on eth4
+981 UDP packet to 16.19.0.157 should leave from eth4
+982 UDP packet to 16.21.0.165 should arrive on eth6
+983 UDP packet to 16.21.0.165 should leave from eth4
+984 UDP packet to 15.25.20.154 should arrive on eth1
+985 UDP packet to 15.25.20.154 should leave from eth4
+986 UDP packet to 172.17.0.198 should arrive on eth6
+987 UDP packet to 172.17.0.198 should leave from eth3
+988 UDP packet to 172.16.63.176 should arrive on eth4
+989 UDP packet to 172.16.63.176 should leave from eth1
+990 UDP packet to 15.25.39.197 should arrive on eth6
+991 UDP packet to 15.25.39.197 should leave from eth3
+992 UDP packet to 10.11.37.168 should arrive on eth1
+993 UDP packet to 10.11.37.168 should leave from eth3
+994 UDP packet to 16.0.0.148 should arrive on eth2
+995 UDP packet to 16.0.0.148 should leave from eth6
+996 UDP packet to 15.38.35.196 should arrive on eth3
+997 UDP packet to 15.38.35.196 should leave from eth2
+998 UDP packet to 16.16.0.173 should arrive on eth3
+999 UDP packet to 16.16.0.173 should leave from eth2
+1000UDP packet to 16.18.19.191 should arrive on eth5
+1001UDP packet to 16.18.19.191 should leave from eth2
+1002UDP packet to 16.18.44.185 should arrive on eth3
+1003UDP packet to 16.18.44.185 should leave from eth1
+1004UDP packet to 10.0.0.148 should arrive on eth2
+1005UDP packet to 10.0.0.148 should leave from eth5
+1006UDP packet to 15.0.0.175 should arrive on eth4
+1007UDP packet to 15.0.0.175 should leave from eth5
+1008UDP packet to 16.17.0.150 should arrive on eth6
+1009UDP packet to 16.17.0.150 should leave from eth1
+1010UDP packet to 10.10.17.183 should arrive on eth3
+1011UDP packet to 10.10.17.183 should leave from eth3
+1012UDP packet to 6.0.0.150 should arrive on eth4
+1013Router should not do anything
+1014UDP packet to 15.73.0.138 should arrive on eth4
+1015UDP packet to 15.73.0.138 should leave from eth1
+1016UDP packet to 10.10.17.156 should arrive on eth5
+1017UDP packet to 10.10.17.156 should leave from eth3
+1018UDP packet to 16.21.33.141 should arrive on eth5
+1019UDP packet to 16.21.33.141 should leave from eth5
+1020UDP packet to 16.18.44.193 should arrive on eth3
+1021UDP packet to 16.18.44.193 should leave from eth1
+1022UDP packet to 22.0.0.150 should arrive on eth1
+1023Router should not do anything
+1024UDP packet to 16.16.0.170 should arrive on eth4
+1025UDP packet to 16.16.0.170 should leave from eth2
+1026UDP packet to 16.19.45.164 should arrive on eth2
+1027UDP packet to 16.19.45.164 should leave from eth6
+1028UDP packet to 15.25.0.144 should arrive on eth5
+1029UDP packet to 15.25.0.144 should leave from eth6
+1030UDP packet to 15.37.0.166 should arrive on eth1
+1031UDP packet to 15.37.0.166 should leave from eth1
+1032UDP packet to 15.38.0.166 should arrive on eth2
+1033UDP packet to 15.38.0.166 should leave from eth5
+1034UDP packet to 10.10.0.164 should arrive on eth1
+1035ARP request for 10.10.0.164 should leave from eth1
+1036ARP reply from 10.10.0.164 should arrive on eth1
+1037UDP packet to 10.10.0.164 should leave from eth1
+1038UDP packet to 16.19.45.193 should arrive on eth6
+1039UDP packet to 16.19.45.193 should leave from eth6
+1040UDP packet to 16.19.45.161 should arrive on eth6
+1041UDP packet to 16.19.45.161 should leave from eth6
+1042UDP packet to 15.25.39.140 should arrive on eth5
+1043UDP packet to 15.25.39.140 should leave from eth3
+1044UDP packet to 10.11.19.199 should arrive on eth2
+1045UDP packet to 10.11.19.199 should leave from eth4
+1046UDP packet to 15.25.20.142 should arrive on eth6
+1047UDP packet to 15.25.20.142 should leave from eth4
+1048UDP packet to 16.19.0.143 should arrive on eth3
+1049UDP packet to 16.19.0.143 should leave from eth4
+1050UDP packet to 172.0.0.177 should arrive on eth3
+1051UDP packet to 172.0.0.177 should leave from eth2
+1052UDP packet to 15.25.20.189 should arrive on eth4
+1053UDP packet to 15.25.20.189 should leave from eth4
+1054UDP packet to 172.32.0.167 should arrive on eth2
+1055UDP packet to 172.32.0.167 should leave from eth5
+1056UDP packet to 16.21.33.141 should arrive on eth1
+1057UDP packet to 16.21.33.141 should leave from eth5
+1058UDP packet to 15.36.0.140 should arrive on eth2
+1059UDP packet to 15.36.0.140 should leave from eth4
+1060UDP packet to 172.31.0.155 should arrive on eth6
+1061UDP packet to 172.31.0.155 should leave from eth1
+1062UDP packet to 10.11.19.179 should arrive on eth2
+1063UDP packet to 10.11.19.179 should leave from eth4
+1064UDP packet to 10.10.18.167 should arrive on eth2
+1065UDP packet to 10.10.18.167 should leave from eth4
+1066UDP packet to 15.25.0.165 should arrive on eth4
+1067UDP packet to 15.25.0.165 should leave from eth6
+1068UDP packet to 6.0.0.175 should arrive on eth3
+1069Router should not do anything
+1070UDP packet to 172.80.0.176 should arrive on eth5
+1071UDP packet to 172.80.0.176 should leave from eth4
+1072UDP packet to 22.0.0.175 should arrive on eth4
+1073Router should not do anything
+1074UDP packet to 7.0.0.188 should arrive on eth5
+1075Router should not do anything
+1076UDP packet to 16.21.33.179 should arrive on eth6
+1077UDP packet to 16.21.33.179 should leave from eth5
+1078UDP packet to 16.18.45.182 should arrive on eth2
+1079UDP packet to 16.18.45.182 should leave from eth4
+1080UDP packet to 16.19.25.147 should arrive on eth3
+1081UDP packet to 16.19.25.147 should leave from eth1
+1082UDP packet to 172.17.0.189 should arrive on eth2
+1083UDP packet to 172.17.0.189 should leave from eth3
+1084UDP packet to 16.18.45.161 should arrive on eth2
+1085UDP packet to 16.18.45.161 should leave from eth4
+1086UDP packet to 21.0.0.158 should arrive on eth6
+1087Router should not do anything
+1088UDP packet to 172.16.40.194 should arrive on eth5
+1089ARP request for 172.16.40.194 should leave from eth3
+1090ARP reply from 172.16.40.194 should arrive on eth3
+1091UDP packet to 172.16.40.194 should leave from eth3
+1092UDP packet to 16.19.44.160 should arrive on eth4
+1093UDP packet to 16.19.44.160 should leave from eth2
+1094UDP packet to 172.80.0.200 should arrive on eth6
+1095UDP packet to 172.80.0.200 should leave from eth4
+1096UDP packet to 10.10.18.173 should arrive on eth5
+1097UDP packet to 10.10.18.173 should leave from eth4
+1098UDP packet to 15.73.0.168 should arrive on eth5
+1099UDP packet to 15.73.0.168 should leave from eth1
+1100UDP packet to 10.10.16.171 should arrive on eth4
+1101UDP packet to 10.10.16.171 should leave from eth2
+1102UDP packet to 10.11.39.164 should arrive on eth2
+1103UDP packet to 10.11.39.164 should leave from eth1
+1104UDP packet to 172.32.0.187 should arrive on eth2
+1105UDP packet to 172.32.0.187 should leave from eth5
+1106UDP packet to 15.37.24.151 should arrive on eth2
+1107UDP packet to 15.37.24.151 should leave from eth6
+1108UDP packet to 15.25.39.164 should arrive on eth5
+1109UDP packet to 15.25.39.164 should leave from eth3
+1110UDP packet to 15.37.24.190 should arrive on eth1
+1111UDP packet to 15.37.24.190 should leave from eth6
+1112UDP packet to 16.16.0.139 should arrive on eth6
+1113UDP packet to 16.16.0.139 should leave from eth2
+1114UDP packet to 16.18.19.158 should arrive on eth2
+1115UDP packet to 16.18.19.158 should leave from eth2
+1116UDP packet to 10.11.39.171 should arrive on eth3
+1117UDP packet to 10.11.39.171 should leave from eth1
+1118UDP packet to 10.10.16.164 should arrive on eth4
+1119UDP packet to 10.10.16.164 should leave from eth2
+1120UDP packet to 10.10.0.200 should arrive on eth4
+1121ARP request for 10.10.0.200 should leave from eth1
+1122ARP reply from 10.10.0.200 should arrive on eth1
+1123UDP packet to 10.10.0.200 should leave from eth1
+1124UDP packet to 16.0.0.195 should arrive on eth6
+1125UDP packet to 16.0.0.195 should leave from eth6
+1126UDP packet to 16.17.16.181 should arrive on eth5
+1127UDP packet to 16.17.16.181 should leave from eth5
+1128UDP packet to 16.21.0.199 should arrive on eth5
+1129UDP packet to 16.21.0.199 should leave from eth4
+1130UDP packet to 15.73.0.155 should arrive on eth4
+1131UDP packet to 15.73.0.155 should leave from eth1
+1132UDP packet to 15.25.20.148 should arrive on eth5
+1133UDP packet to 15.25.20.148 should leave from eth4
+1134UDP packet to 172.31.0.175 should arrive on eth4
+1135UDP packet to 172.31.0.175 should leave from eth1
+1136UDP packet to 6.0.0.185 should arrive on eth4
+1137Router should not do anything
+1138UDP packet to 15.37.0.149 should arrive on eth4
+1139UDP packet to 15.37.0.149 should leave from eth1
+1140UDP packet to 12.1.1.145 should arrive on eth6
+1141UDP packet to 12.1.1.145 should leave from eth3
+1142Miscellaneous
+1143ARP request from 31.0.1.1 should arrive on eth1
+1144ARP request from 31.0.2.1 should arrive on eth2
+1145ARP request from 31.0.3.1 should arrive on eth3
+1146ARP request from 31.0.4.1 should arrive on eth4
+1147ARP request from 31.0.5.1 should arrive on eth5
+1148ARP request from 31.0.6.1 should arrive on eth6
+1149Router should not do anything
+1150ARP request from 31.0.1.1 should arrive on eth1
+1151ARP request from 31.0.2.1 should arrive on eth2
+1152ARP request from 31.0.3.1 should arrive on eth3
+1153ARP request from 31.0.4.1 should arrive on eth4
+1154ARP request from 31.0.5.1 should arrive on eth5
+1155ARP request from 31.0.6.1 should arrive on eth6
+1156Router should not do anything
+1157Ping request from 31.0.1.1 should arrive on eth1
+1158Ping request from 31.0.2.1 should arrive on eth2
+1159Ping request from 31.0.3.1 should arrive on eth3
+1160Ping request from 31.0.4.1 should arrive on eth4
+1161Ping request from 31.0.5.1 should arrive on eth5
+1162Ping request from 31.0.6.1 should arrive on eth6
+1163Router should not do anything
+1164Ping request from 31.0.1.1 should arrive on eth1
+1165Ping request from 31.0.1.1 should arrive on eth1
+1166Ping request from 31.0.1.1 should arrive on eth1
+1167Ping request from 31.0.1.1 should arrive on eth1
+1168Ping request from 31.0.1.1 should arrive on eth1
+1169Ping request from 31.0.1.1 should arrive on eth1
+1170Router should not do anything
+1171Ping request from 31.0.2.1 should arrive on eth2
+1172Ping request from 31.0.2.1 should arrive on eth2
+1173Ping request from 31.0.2.1 should arrive on eth2
+1174Ping request from 31.0.2.1 should arrive on eth2
+1175Ping request from 31.0.2.1 should arrive on eth2
+1176Ping request from 31.0.2.1 should arrive on eth2
+1177Router should not do anything
+1178Ping request from 31.0.3.1 should arrive on eth3
+1179Ping request from 31.0.3.1 should arrive on eth3
+1180Ping request from 31.0.3.1 should arrive on eth3
+1181Ping request from 31.0.3.1 should arrive on eth3
+1182Ping request from 31.0.3.1 should arrive on eth3
+1183Ping request from 31.0.3.1 should arrive on eth3
+1184Router should not do anything
+1185Ping request from 31.0.4.1 should arrive on eth4
+1186Ping request from 31.0.4.1 should arrive on eth4
+1187Ping request from 31.0.4.1 should arrive on eth4
+1188Ping request from 31.0.4.1 should arrive on eth4
+1189Ping request from 31.0.4.1 should arrive on eth4
+1190Ping request from 31.0.4.1 should arrive on eth4
+1191Router should not do anything
+1192Ping request from 31.0.5.1 should arrive on eth5
+1193Ping request from 31.0.5.1 should arrive on eth5
+1194Ping request from 31.0.5.1 should arrive on eth5
+1195Ping request from 31.0.5.1 should arrive on eth5
+1196Ping request from 31.0.5.1 should arrive on eth5
+1197Ping request from 31.0.5.1 should arrive on eth5
+1198Router should not do anything
+1199Ping request from 31.0.6.1 should arrive on eth6
+1200Ping request from 31.0.6.1 should arrive on eth6
+1201Ping request from 31.0.6.1 should arrive on eth6
+1202Ping request from 31.0.6.1 should arrive on eth6
+1203Ping request from 31.0.6.1 should arrive on eth6
+1204Ping request from 31.0.6.1 should arrive on eth6
+1205Router should not do anything
+1206Bonus: V2FybWluZyB1cA==
+1207Bonus: V2FybWVkIHVw
+1208Bonus: V2h1dCBkJyB5YSBob3BlIHQnIGZpbmQgaGVyZT8=
+
+
+Failed:
+    Bonus: SGFsZndheQ==
+        Expected event: Timeout after 1.2s on a call to recv_packet
+
+
+Pending (couldn't test because of prior failure):
+1   Bonus: Tm90aGluJyBmb3IgeWEgdCcgZmluZCBoZXJlIQ==
+2   Bonus: Q29uZ3JhdHMh
+
+
+************************************************************
+Your code didn't crash, but a test failed.
+************************************************************
+
+This is the Switchyard equivalent of the blue screen of death.
+As far as I can tell, here's what happened:
+
+    Expected event:
+        Bonus: SGFsZndheQ==
+
+    Failure observed:
+        send_packet was called instead of Timeout after 1.2s on a
+        call to recv_packet
+
+You can rerun with the -v flag to include full dumps of packets that
+may have caused errors. (By default, only relevant packet context may
+be shown, not the full contents.)
+
+
+I'm throwing you into the Python debugger (pdb) at the point of failure.
+If you don't want pdb, use the --nopdb flag to avoid this fate.
+
+> /home/njucs/workspace/lab-4-qlwy66/myrouter.py(190)handle_packet()
+-> self.net.send_packet(iface_name,packet)
+(Pdb) 
